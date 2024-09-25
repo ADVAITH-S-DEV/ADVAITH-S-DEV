@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate B.Tech student with a strong inte
 - 🔍 Interests: AI, ML, Cybersecurity, Software Development
 - 📚 Currently Learning: Flutter, C++, and deepening my knowledge in AI/ML
 - 🎓 Education: B.Tech in Information Technology , CUSAT
-- 🌐 Languages: Proficient in Python, Dart, C++, and exploring more!
+- 🌐 Languages: Proficient in Python, Dart, C++, JavaScript and exploring more!
 - 💻 Tools & Technologies: 
   
   - Mobile Development:Flutter
