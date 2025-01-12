@@ -1,6 +1,6 @@
 👋 Hi there! I'm Advaith S Dev
 
-Welcome to my GitHub profile! I'm a passionate B.Tech student with a strong interest in Artificial Intelligence (AI), Machine Learning (ML), and Cybersecurity. I'm currently honing my skills in Flutter and C++, and I'm always eager to learn and explore new technologies.
+Welcome to my GitHub profile! I'm a passionate B.Tech student with a strong interest in Artificial Intelligence (AI), Machine Learning (ML), and Cybersecurity. I'm currently honing my skills in WebDev and C++, and I'm always eager to learn and explore new technologies.
 
 🚀 About Me
 
